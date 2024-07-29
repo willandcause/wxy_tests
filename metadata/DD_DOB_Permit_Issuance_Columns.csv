@@ -1,0 +1,61 @@
+Column Name,Description,API Field Name,Data Type,shortname
+BOROUGH,"1= Manhattan, 2= Bronx, 3 = Brooklyn, 4 = Queens, 5 = Staten Island",borough,Text,boro
+Bin #,Number assigned by City Planning to a specific building,bin__,Text,bin
+House #,House Number of Residence or Commercial Property,house__,Text,house
+Street Name,Street Name where Property is located,street_name,Text,street
+Job #,Number assigned by DOB to Job Filing,job__,Text,jobnum
+Job doc. #,Document Number,job_doc___,Text,jobdoc
+Job Type,"Job Type, based on DOB Job Code (NB-New Building, A1, A2, A3- Alterations 1-3, SG-Sign, etc.)",job_type,Text,jobtype
+Self_Cert,Self_Cert,self_cert,Text,selfcert
+Block,Tax block assigned by Department of Finance,block,Text,block
+Lot,Tax lot assigned by Department of Finance,lot,Text,lot
+Community Board,"3-digit identifier: Borough code = first position, last 2 = community board",community_board,Text,CB
+Zip Code,Tax lot Zip Code,zip_code,Text,zip
+Bldg Type,1-2-3 Family or Other,bldg_type,Text,bldgtype
+Residential,Residential,residential,Text,res
+Special District 1,Special District 1,special_district_1,Text,spd1
+Special District 2,Special District 2,special_district_2,Text,spd2
+Work Type,"DOB Designated Work Types (PL-Plumbing, BL-Boiler, MH-Mechanical, OT-Other Constuction Equipment, etc.)",work_type,Text,worktype
+Permit Status,Permit Status,permit_status,Text,status
+Filing Status,Filing Status,filing_status,Text,statusfil
+Permit Type,"Permit Type (DM-Demolition, EW-Equipment Work, PL-Plumbing, etc.) Complete List - http://www.nyc.gov/html/dob/downloads/pdf/bisjobstatus.pdf",permit_type,Text,type
+Permit Sequence #,Permit Sequence #,permit_sequence__,Text,seqnum
+Permit Subtype,"Permit Subtype (Subset of Equipment Work Permit Type-- BL-Boiler, FA- Fire Alarm, Subset of Construction Equipment Permit Type-- CH-Chute, SF-Scaffold, etc.) Complete List - http://www.nyc.gov/html/dob/downloads/pdf/bisjobstatus.pdf",permit_subtype,Text,subtype
+Oil Gas,Oil Gas,oil_gas,Text,oilgas
+Site Fill,Site Fill,site_fill,Text,sitefill
+Filing Date,Filing Date,filing_date,Text,datefil
+Issuance Date,Issuance Date,issuance_date,Text,dateiss
+Expiration Date,Expiration Date,expiration_date,Text,dateexp
+Job Start Date,Job Start Date,job_start_date,Text,datejob
+Permittee's First Name,Permittee's First Name,permittee_s_first_name,Text,P_fname
+Permittee's Last Name,Permittee's Last Name,permittee_s_last_name,Text,P_lname
+Permittee's Business Name,Permittee's Business Name,permittee_s_business_name,Text,P_bname
+Permittee's Phone #,Permittee's Phone #,permittee_s_phone__,Text,P_phone
+Permittee's License Type,Permittee's License Type,permittee_s_license_type,Text,P_lictype
+Permittee's License #,Permittee's License #,permittee_s_license__,Text,P_licnum
+Act as Superintendent,Permittee Acts as Superintendent,act_as_superintendent,Text,P_supt
+Permittee's Other Title,Permittee's Other Title,permittee_s_other_title,Text,P_title
+HIC License,HIC License,hic_license,Text,hiclic
+Site Safety Mgr's First Name,Site Safety Mgr's First Name,site_safety_mgr_s_first_name,Text,SSM_fname
+Site Safety Mgr's Last Name,Site Safety Mgr's Last Name,site_safety_mgr_s_last_name,Text,SSM_lname
+Site Safety Mgr Business Name,Site Safety Mgr Business Name,site_safety_mgr_business_name,Text,SSM_bname
+Superintendent First & Last Name,Superintendent First & Last Name,superintendent_first___last_name,Text,SUP_flname
+Superintendent Business Name,Superintendent Business Name,superintendent_business_name,Text,SUP_bname
+Owner's Business Type,Owner's Business Type,owner_s_business_type,Text,O_btype
+Non-Profit,Non-Profit,non_profit,Text,nonprofit
+Owner's Business Name,Business Name of Property Owner,owner_s_business_name,Text,O_bname
+Owner's First Name,First Name of property owner,owner_s_first_name,Text,O_fname
+Owner's Last Name,Last Name of property owner,owner_s_last_name,Text,O_lname
+Owner's House #,Owner's House #,owner_s_house__,Text,O_hnum
+Owner's House Street Name,Owner's House Street Name,owner_s_house_street_name,Text,O_hstreet
+Owner's House City,Owner’s House City,city,Text,O_hcity
+Owner's House State,Owner’s House State,state,Text,O_hstate
+Owner's House Zip Code,Owner’s House Zip Code,owner_s_zip_code,Text,O_hzip
+Owner's Phone #,Owner's Phone #,owner_s_phone__,Text,O_phone
+DOBRunDate,Date when query is run and pushed to Open Data. Could be used to differentiate report dates.,dobrundate,Text,dobrundate
+PERMIT_SI_NO,,permit_si_no,Text,permnum
+LATITUDE,,gis_latitude,Text,latitude
+LONGITUDE,,gis_longitude,Text,longitude
+COUNCIL_DISTRICT,,gis_council_district,Text,CD
+CENSUS_TRACT,,gis_census_tract,Text,CT
+NTA_NAME,,gis_nta_name,Text,NTA
