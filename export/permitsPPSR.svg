@@ -1,0 +1,1660 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="1224pt" height="792pt" viewBox="0 0 1224 792" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2024-07-31T21:01:59.355689</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.8.0, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 792 
+L 1224 792 
+L 1224 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 153 704.88 
+L 1101.6 704.88 
+L 1101.6 95.04 
+L 153 95.04 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <defs>
+       <path id="mf6d940b395" d="M 0 0 
+L 0 3.5 
+" style="stroke: #8b4513; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#mf6d940b395" x="158.375372" y="704.88" style="fill: #8b4513; stroke: #8b4513; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <!-- 0 -->
+      <g style="fill: #8b4513" transform="translate(155.595685 719.089375) scale(0.1 -0.1)">
+       <defs>
+        <path id="Univers-30" d="M 282 2163 
+C 282 1370 422 941 570 646 
+C 762 256 1165 -90 1754 -90 
+C 1952 -90 2323 -45 2637 250 
+C 3040 627 3251 1216 3251 2266 
+C 3251 3098 3091 4518 1766 4518 
+C 358 4518 282 2822 282 2163 
+z
+M 896 2195 
+C 896 2989 998 4006 1773 4006 
+C 2445 4006 2630 3270 2630 2208 
+C 2630 1414 2502 442 1760 442 
+C 1088 442 896 1210 896 2195 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#Univers-30"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2">
+      <g>
+       <use xlink:href="#mf6d940b395" x="301.043335" y="704.88" style="fill: #8b4513; stroke: #8b4513; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <!-- 20000 -->
+      <g style="fill: #8b4513" transform="translate(287.144898 719.089375) scale(0.1 -0.1)">
+       <defs>
+        <path id="Univers-32" d="M 339 0 
+L 3155 0 
+L 3155 506 
+L 1050 506 
+L 1824 1242 
+C 1952 1370 2515 1952 2643 2112 
+C 3123 2720 3142 2938 3142 3219 
+C 3142 4166 2451 4512 1773 4512 
+C 1491 4512 1120 4454 813 4192 
+C 429 3859 410 3437 403 3219 
+L 1075 3219 
+C 1075 3386 1088 3994 1798 3994 
+C 2432 3994 2509 3488 2509 3270 
+C 2509 3034 2438 2835 2182 2483 
+C 1984 2214 1741 1958 1498 1722 
+L 339 582 
+L 339 0 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#Univers-32"/>
+       <use xlink:href="#Univers-30" x="55.599991"/>
+       <use xlink:href="#Univers-30" x="111.199982"/>
+       <use xlink:href="#Univers-30" x="166.799973"/>
+       <use xlink:href="#Univers-30" x="222.399963"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_3">
+      <g>
+       <use xlink:href="#mf6d940b395" x="443.711298" y="704.88" style="fill: #8b4513; stroke: #8b4513; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <!-- 40000 -->
+      <g style="fill: #8b4513" transform="translate(429.812861 719.089375) scale(0.1 -0.1)">
+       <defs>
+        <path id="Univers-34" d="M 2176 0 
+L 2790 0 
+L 2790 960 
+L 3437 960 
+L 3437 1478 
+L 2790 1478 
+L 2790 4486 
+L 2099 4486 
+L 179 1722 
+L 179 960 
+L 2176 960 
+L 2176 0 
+z
+M 666 1478 
+L 2195 3814 
+L 2195 1478 
+L 666 1478 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#Univers-34"/>
+       <use xlink:href="#Univers-30" x="55.599991"/>
+       <use xlink:href="#Univers-30" x="111.199982"/>
+       <use xlink:href="#Univers-30" x="166.799973"/>
+       <use xlink:href="#Univers-30" x="222.399963"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_4">
+      <g>
+       <use xlink:href="#mf6d940b395" x="586.379261" y="704.88" style="fill: #8b4513; stroke: #8b4513; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <!-- 60000 -->
+      <g style="fill: #8b4513" transform="translate(572.480824 719.089375) scale(0.1 -0.1)">
+       <defs>
+        <path id="Univers-36" d="M 3264 3379 
+C 3258 3552 3251 3834 3027 4096 
+C 2874 4262 2547 4518 1965 4518 
+C 563 4518 326 2982 326 2016 
+C 326 1453 403 819 730 384 
+C 966 77 1395 -96 1824 -96 
+C 2586 -96 3322 422 3322 1453 
+C 3322 2394 2707 2874 1984 2874 
+C 1338 2874 1094 2515 954 2310 
+C 1011 3488 1293 4038 1933 4038 
+C 2214 4038 2598 3898 2605 3379 
+L 3264 3379 
+z
+M 1850 390 
+C 1357 390 998 813 998 1389 
+C 998 1894 1286 2381 1882 2381 
+C 2618 2381 2707 1709 2707 1395 
+C 2707 672 2246 390 1850 390 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#Univers-36"/>
+       <use xlink:href="#Univers-30" x="55.599991"/>
+       <use xlink:href="#Univers-30" x="111.199982"/>
+       <use xlink:href="#Univers-30" x="166.799973"/>
+       <use xlink:href="#Univers-30" x="222.399963"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_5">
+      <g>
+       <use xlink:href="#mf6d940b395" x="729.047225" y="704.88" style="fill: #8b4513; stroke: #8b4513; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <!-- 80000 -->
+      <g style="fill: #8b4513" transform="translate(715.148787 719.089375) scale(0.1 -0.1)">
+       <defs>
+        <path id="Univers-38" d="M 1216 2336 
+C 1018 2272 787 2208 576 1997 
+C 352 1786 237 1478 237 1184 
+C 237 845 390 512 627 294 
+C 947 0 1395 -77 1773 -77 
+C 2874 -77 3296 614 3296 1222 
+C 3296 2080 2592 2272 2330 2342 
+C 2950 2458 3232 2912 3232 3347 
+C 3232 4026 2694 4531 1760 4531 
+C 595 4531 326 3718 326 3322 
+C 326 2880 627 2464 1216 2336 
+z
+M 2618 3334 
+C 2618 2899 2253 2618 1766 2618 
+C 1306 2618 947 2906 947 3334 
+C 947 3776 1312 4058 1786 4058 
+C 2317 4058 2618 3738 2618 3334 
+z
+M 883 1242 
+C 883 1709 1242 2074 1786 2074 
+C 2291 2074 2656 1754 2656 1261 
+C 2656 928 2483 429 1773 429 
+C 1114 429 883 896 883 1242 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#Univers-38"/>
+       <use xlink:href="#Univers-30" x="55.599991"/>
+       <use xlink:href="#Univers-30" x="111.199982"/>
+       <use xlink:href="#Univers-30" x="166.799973"/>
+       <use xlink:href="#Univers-30" x="222.399963"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_6">
+      <g>
+       <use xlink:href="#mf6d940b395" x="871.715188" y="704.88" style="fill: #8b4513; stroke: #8b4513; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_6">
+      <!-- 100000 -->
+      <g style="fill: #8b4513" transform="translate(855.037063 719.089375) scale(0.1 -0.1)">
+       <defs>
+        <path id="Univers-31" d="M 1734 0 
+L 2349 0 
+L 2349 4429 
+L 1779 4429 
+C 1530 4218 1120 3949 704 3731 
+L 704 3091 
+C 1018 3238 1459 3501 1734 3731 
+L 1734 0 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#Univers-31"/>
+       <use xlink:href="#Univers-30" x="55.599991"/>
+       <use xlink:href="#Univers-30" x="111.199982"/>
+       <use xlink:href="#Univers-30" x="166.799973"/>
+       <use xlink:href="#Univers-30" x="222.399963"/>
+       <use xlink:href="#Univers-30" x="277.999954"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_7">
+     <g id="line2d_7">
+      <g>
+       <use xlink:href="#mf6d940b395" x="1014.383151" y="704.88" style="fill: #8b4513; stroke: #8b4513; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_7">
+      <!-- 120000 -->
+      <g style="fill: #8b4513" transform="translate(997.705026 719.089375) scale(0.1 -0.1)">
+       <use xlink:href="#Univers-31"/>
+       <use xlink:href="#Univers-32" x="55.599991"/>
+       <use xlink:href="#Univers-30" x="111.199982"/>
+       <use xlink:href="#Univers-30" x="166.799973"/>
+       <use xlink:href="#Univers-30" x="222.399963"/>
+       <use xlink:href="#Univers-30" x="277.999954"/>
+      </g>
+     </g>
+    </g>
+    <g id="text_8">
+     <!-- Total Permits Issued from 1989-2024 -->
+     <g style="fill: #8b4513" transform="translate(541.175781 732.228438) scale(0.1 -0.1)">
+      <defs>
+       <path id="Univers-54" d="M 2317 0 
+L 2317 4077 
+L 3866 4077 
+L 3866 4621 
+L 134 4621 
+L 134 4077 
+L 1683 4077 
+L 1683 0 
+L 2317 0 
+z
+" transform="scale(0.015625)"/>
+       <path id="Univers-6f" d="M 326 1568 
+C 326 627 845 -109 1907 -109 
+C 3002 -109 3533 672 3533 1613 
+C 3533 2285 3245 3296 1958 3296 
+C 698 3296 326 2362 326 1568 
+z
+M 954 1606 
+C 954 2611 1574 2854 1958 2854 
+C 2522 2854 2893 2432 2893 1632 
+C 2893 666 2374 339 1920 339 
+C 1235 339 954 947 954 1606 
+z
+" transform="scale(0.015625)"/>
+       <path id="Univers-74" d="M 70 2784 
+L 640 2784 
+L 640 640 
+C 640 115 902 -45 1453 -45 
+C 1670 -45 1843 -26 1952 -6 
+L 1952 461 
+C 1901 448 1786 429 1664 429 
+C 1235 429 1235 698 1235 858 
+L 1235 2784 
+L 1952 2784 
+L 1952 3226 
+L 1235 3226 
+L 1235 4090 
+L 640 3898 
+L 640 3226 
+L 70 3226 
+L 70 2784 
+z
+" transform="scale(0.015625)"/>
+       <path id="Univers-61" d="M 3066 0 
+C 3021 326 3014 755 3014 806 
+L 3040 2342 
+C 3040 2490 3034 2643 2931 2835 
+C 2758 3162 2259 3309 1792 3309 
+C 1453 3309 998 3232 755 2963 
+C 570 2746 550 2522 531 2355 
+L 1133 2355 
+C 1139 2483 1171 2899 1779 2899 
+C 1952 2899 2214 2848 2336 2688 
+C 2451 2547 2451 2374 2451 1978 
+C 2266 1990 2170 1997 2016 1997 
+C 1760 1997 1248 1978 902 1786 
+C 429 1510 339 1101 339 845 
+C 339 314 736 -102 1472 -102 
+C 1741 -102 2176 -51 2464 480 
+C 2464 314 2477 160 2522 0 
+L 3066 0 
+z
+M 2451 1562 
+C 2438 1114 2432 934 2298 717 
+C 2150 493 1920 371 1613 371 
+C 1075 371 947 723 947 928 
+C 947 1581 1862 1581 2106 1581 
+C 2253 1581 2342 1574 2451 1562 
+z
+" transform="scale(0.015625)"/>
+       <path id="Univers-6c" d="M 576 0 
+L 1178 0 
+L 1178 4614 
+L 576 4614 
+L 576 0 
+z
+" transform="scale(0.015625)"/>
+       <path id="Univers-20" transform="scale(0.015625)"/>
+       <path id="Univers-50" d="M 563 0 
+L 1203 0 
+L 1203 2054 
+L 1952 2054 
+C 2784 2054 3104 2208 3347 2451 
+C 3597 2701 3712 3002 3712 3354 
+C 3712 3699 3603 4013 3373 4250 
+C 3059 4589 2675 4621 2112 4621 
+L 563 4621 
+L 563 0 
+z
+M 1203 4102 
+L 2099 4102 
+C 2432 4102 3034 4102 3034 3379 
+C 3034 2624 2387 2592 1965 2592 
+L 1203 2592 
+L 1203 4102 
+z
+" transform="scale(0.015625)"/>
+       <path id="Univers-65" d="M 3238 1498 
+C 3251 2022 3283 3296 1843 3296 
+C 1658 3296 1274 3277 966 3059 
+C 461 2707 333 2182 333 1549 
+C 333 531 813 -96 1824 -96 
+C 2470 -96 2790 173 2931 333 
+C 3162 582 3187 845 3206 1005 
+L 2605 1005 
+C 2554 544 2240 339 1850 339 
+C 1190 339 915 832 928 1498 
+L 3238 1498 
+z
+M 954 1920 
+C 966 2630 1440 2867 1830 2867 
+C 2573 2867 2630 2227 2624 1920 
+L 954 1920 
+z
+" transform="scale(0.015625)"/>
+       <path id="Univers-72" d="M 595 0 
+L 1203 0 
+L 1203 1709 
+C 1203 2259 1370 2682 2080 2682 
+C 2150 2682 2208 2682 2253 2675 
+C 2298 2669 2336 2662 2368 2650 
+L 2368 3238 
+C 2266 3245 2131 3251 1952 3226 
+C 1683 3187 1299 3040 1184 2592 
+L 1171 3213 
+L 563 3213 
+C 582 3002 595 2778 595 2560 
+L 595 0 
+z
+" transform="scale(0.015625)"/>
+       <path id="Univers-6d" d="M 557 0 
+L 1165 0 
+L 1165 1824 
+C 1165 2029 1171 2291 1306 2477 
+C 1376 2573 1600 2829 2010 2829 
+C 2483 2829 2714 2522 2714 2125 
+L 2714 0 
+L 3322 0 
+L 3322 1798 
+C 3322 1939 3322 2291 3462 2490 
+C 3546 2605 3757 2829 4147 2829 
+C 4454 2829 4659 2694 4762 2547 
+C 4819 2464 4870 2342 4870 2061 
+L 4870 0 
+L 5478 0 
+L 5478 2157 
+C 5478 3104 4762 3296 4301 3296 
+C 3590 3296 3328 2874 3219 2694 
+C 3104 2931 2880 3296 2170 3296 
+C 1894 3296 1459 3251 1152 2746 
+L 1152 3213 
+L 544 3213 
+L 557 2784 
+L 557 0 
+z
+" transform="scale(0.015625)"/>
+       <path id="Univers-69" d="M 506 3949 
+L 1229 3949 
+L 1229 4608 
+L 506 4608 
+L 506 3949 
+z
+M 570 0 
+L 1171 0 
+L 1171 3213 
+L 570 3213 
+L 570 0 
+z
+" transform="scale(0.015625)"/>
+       <path id="Univers-73" d="M 275 954 
+C 269 179 877 -90 1530 -90 
+C 1862 -90 2202 -45 2483 128 
+C 2720 275 2918 582 2918 941 
+C 2918 1146 2854 1370 2675 1536 
+C 2483 1715 2291 1766 1402 1978 
+C 1235 2022 947 2093 947 2387 
+C 947 2848 1510 2848 1600 2848 
+C 1818 2848 2240 2810 2221 2323 
+L 2835 2323 
+C 2835 2458 2835 2611 2752 2790 
+C 2560 3174 1997 3290 1594 3290 
+C 851 3290 339 2906 339 2317 
+C 339 1645 902 1510 1574 1357 
+C 2054 1248 2278 1190 2278 877 
+C 2278 768 2240 659 2176 576 
+C 2048 416 1862 371 1613 371 
+C 1030 371 902 710 909 954 
+L 275 954 
+z
+" transform="scale(0.015625)"/>
+       <path id="Univers-49" d="M 563 0 
+L 1203 0 
+L 1203 4621 
+L 563 4621 
+L 563 0 
+z
+" transform="scale(0.015625)"/>
+       <path id="Univers-75" d="M 499 3213 
+L 499 1056 
+C 499 422 870 -32 1664 -32 
+C 2355 -32 2573 326 2688 550 
+L 2701 0 
+L 3328 0 
+C 3322 179 3309 538 3309 602 
+L 3309 3213 
+L 2688 3213 
+L 2688 1395 
+C 2688 1235 2688 986 2554 794 
+C 2381 538 2099 435 1798 435 
+C 1184 435 1114 832 1114 1146 
+L 1114 3213 
+L 499 3213 
+z
+" transform="scale(0.015625)"/>
+       <path id="Univers-64" d="M 2790 2778 
+C 2714 2912 2483 3322 1792 3322 
+C 1037 3322 339 2790 339 1568 
+C 339 160 1293 -64 1722 -64 
+C 1939 -64 2253 -6 2515 173 
+C 2682 288 2752 422 2803 512 
+L 2816 0 
+L 3418 0 
+C 3405 166 3392 442 3392 512 
+L 3392 4614 
+L 2790 4614 
+L 2790 2778 
+z
+M 2810 1651 
+C 2810 1402 2810 358 1862 358 
+C 1126 358 979 1018 979 1587 
+C 979 1805 979 2874 1862 2874 
+C 2202 2874 2438 2714 2566 2547 
+C 2701 2374 2810 2118 2810 1651 
+z
+" transform="scale(0.015625)"/>
+       <path id="Univers-66" d="M 2170 4653 
+C 2042 4672 1850 4698 1677 4698 
+C 1261 4698 1005 4550 870 4346 
+C 762 4179 736 4019 736 3578 
+L 736 3213 
+L 102 3213 
+L 102 2778 
+L 736 2778 
+L 736 0 
+L 1331 0 
+L 1331 2778 
+L 2080 2778 
+L 2080 3213 
+L 1331 3213 
+L 1331 3718 
+C 1331 3942 1331 4186 1818 4186 
+C 1939 4186 2067 4179 2170 4173 
+L 2170 4653 
+z
+" transform="scale(0.015625)"/>
+       <path id="Univers-39" d="M 294 1056 
+C 320 134 1024 -102 1626 -102 
+C 3251 -102 3258 1581 3258 2234 
+C 3258 2835 3206 3155 3130 3424 
+C 2874 4320 2176 4512 1702 4512 
+C 1005 4512 282 4102 282 3085 
+C 282 2157 928 1683 1632 1683 
+C 1978 1683 2394 1805 2624 2240 
+C 2656 1549 2650 403 1677 403 
+C 1178 403 966 672 966 1056 
+L 294 1056 
+z
+M 2554 3072 
+C 2554 2541 2246 2170 1747 2170 
+C 1261 2170 909 2502 909 3078 
+C 909 3603 1184 4032 1702 4032 
+C 2138 4032 2554 3712 2554 3072 
+z
+" transform="scale(0.015625)"/>
+       <path id="Univers-2d" d="M 269 1440 
+L 1875 1440 
+L 1875 1926 
+L 269 1926 
+L 269 1440 
+z
+" transform="scale(0.015625)"/>
+      </defs>
+      <use xlink:href="#Univers-54"/>
+      <use xlink:href="#Univers-6f" x="61.099991"/>
+      <use xlink:href="#Univers-74" x="122.199982"/>
+      <use xlink:href="#Univers-61" x="155.499969"/>
+      <use xlink:href="#Univers-6c" x="211.09996"/>
+      <use xlink:href="#Univers-20" x="238.899948"/>
+      <use xlink:href="#Univers-50" x="266.699936"/>
+      <use xlink:href="#Univers-65" x="327.799927"/>
+      <use xlink:href="#Univers-72" x="383.399918"/>
+      <use xlink:href="#Univers-6d" x="422.299911"/>
+      <use xlink:href="#Univers-69" x="516.699905"/>
+      <use xlink:href="#Univers-74" x="544.499893"/>
+      <use xlink:href="#Univers-73" x="577.799881"/>
+      <use xlink:href="#Univers-20" x="627.799866"/>
+      <use xlink:href="#Univers-49" x="655.599854"/>
+      <use xlink:href="#Univers-73" x="683.399841"/>
+      <use xlink:href="#Univers-73" x="733.399826"/>
+      <use xlink:href="#Univers-75" x="783.399811"/>
+      <use xlink:href="#Univers-65" x="844.499802"/>
+      <use xlink:href="#Univers-64" x="900.099792"/>
+      <use xlink:href="#Univers-20" x="961.199783"/>
+      <use xlink:href="#Univers-66" x="988.999771"/>
+      <use xlink:href="#Univers-72" x="1022.299759"/>
+      <use xlink:href="#Univers-6f" x="1061.199753"/>
+      <use xlink:href="#Univers-6d" x="1122.299744"/>
+      <use xlink:href="#Univers-20" x="1216.699738"/>
+      <use xlink:href="#Univers-31" x="1244.499725"/>
+      <use xlink:href="#Univers-39" x="1300.099716"/>
+      <use xlink:href="#Univers-38" x="1355.699707"/>
+      <use xlink:href="#Univers-39" x="1411.299698"/>
+      <use xlink:href="#Univers-2d" x="1466.899689"/>
+      <use xlink:href="#Univers-32" x="1500.199677"/>
+      <use xlink:href="#Univers-30" x="1555.799667"/>
+      <use xlink:href="#Univers-32" x="1611.399658"/>
+      <use xlink:href="#Univers-34" x="1666.999649"/>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_8">
+      <defs>
+       <path id="m479653e08c" d="M 0 0 
+L -3.5 0 
+" style="stroke: #8b4513; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m479653e08c" x="153" y="692.143784" style="fill: #8b4513; stroke: #8b4513; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_9">
+      <!-- 0.00 -->
+      <g style="fill: #8b4513" transform="translate(126.542187 695.748471) scale(0.1 -0.1)">
+       <defs>
+        <path id="Univers-2e" d="M 518 0 
+L 1229 0 
+L 1229 768 
+L 518 768 
+L 518 0 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#Univers-30"/>
+       <use xlink:href="#Univers-2e" x="55.599991"/>
+       <use xlink:href="#Univers-30" x="83.399979"/>
+       <use xlink:href="#Univers-30" x="138.999969"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_9">
+      <g>
+       <use xlink:href="#m479653e08c" x="153" y="617.224865" style="fill: #8b4513; stroke: #8b4513; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_10">
+      <!-- 0.05 -->
+      <g style="fill: #8b4513" transform="translate(126.542187 620.829552) scale(0.1 -0.1)">
+       <defs>
+        <path id="Univers-35" d="M 358 1050 
+C 390 294 960 -102 1677 -102 
+C 2643 -102 3258 557 3258 1427 
+C 3258 2189 2822 2886 1933 2886 
+C 1414 2886 1133 2611 998 2477 
+L 1082 3910 
+L 3021 3910 
+L 3021 4429 
+L 531 4429 
+L 416 1792 
+L 998 1792 
+C 1030 1894 1069 2029 1203 2163 
+C 1338 2298 1542 2394 1798 2394 
+C 2310 2394 2637 2042 2637 1440 
+C 2637 1152 2534 422 1760 422 
+C 1427 422 1037 602 1024 1050 
+L 358 1050 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#Univers-30"/>
+       <use xlink:href="#Univers-2e" x="55.599991"/>
+       <use xlink:href="#Univers-30" x="83.399979"/>
+       <use xlink:href="#Univers-35" x="138.999969"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_10">
+      <g>
+       <use xlink:href="#m479653e08c" x="153" y="542.305946" style="fill: #8b4513; stroke: #8b4513; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_11">
+      <!-- 0.10 -->
+      <g style="fill: #8b4513" transform="translate(126.542187 545.910633) scale(0.1 -0.1)">
+       <use xlink:href="#Univers-30"/>
+       <use xlink:href="#Univers-2e" x="55.599991"/>
+       <use xlink:href="#Univers-31" x="83.399979"/>
+       <use xlink:href="#Univers-30" x="138.999969"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_11">
+      <g>
+       <use xlink:href="#m479653e08c" x="153" y="467.387027" style="fill: #8b4513; stroke: #8b4513; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_12">
+      <!-- 0.15 -->
+      <g style="fill: #8b4513" transform="translate(126.542187 470.991715) scale(0.1 -0.1)">
+       <use xlink:href="#Univers-30"/>
+       <use xlink:href="#Univers-2e" x="55.599991"/>
+       <use xlink:href="#Univers-31" x="83.399979"/>
+       <use xlink:href="#Univers-35" x="138.999969"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_12">
+      <g>
+       <use xlink:href="#m479653e08c" x="153" y="392.468108" style="fill: #8b4513; stroke: #8b4513; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_13">
+      <!-- 0.20 -->
+      <g style="fill: #8b4513" transform="translate(126.542187 396.072796) scale(0.1 -0.1)">
+       <use xlink:href="#Univers-30"/>
+       <use xlink:href="#Univers-2e" x="55.599991"/>
+       <use xlink:href="#Univers-32" x="83.399979"/>
+       <use xlink:href="#Univers-30" x="138.999969"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_13">
+      <g>
+       <use xlink:href="#m479653e08c" x="153" y="317.549189" style="fill: #8b4513; stroke: #8b4513; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_14">
+      <!-- 0.25 -->
+      <g style="fill: #8b4513" transform="translate(126.542187 321.153877) scale(0.1 -0.1)">
+       <use xlink:href="#Univers-30"/>
+       <use xlink:href="#Univers-2e" x="55.599991"/>
+       <use xlink:href="#Univers-32" x="83.399979"/>
+       <use xlink:href="#Univers-35" x="138.999969"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_7">
+     <g id="line2d_14">
+      <g>
+       <use xlink:href="#m479653e08c" x="153" y="242.63027" style="fill: #8b4513; stroke: #8b4513; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_15">
+      <!-- 0.30 -->
+      <g style="fill: #8b4513" transform="translate(126.542187 246.234958) scale(0.1 -0.1)">
+       <defs>
+        <path id="Univers-33" d="M 243 1139 
+C 250 954 256 634 506 352 
+C 787 26 1254 -109 1722 -109 
+C 2752 -109 3258 576 3258 1197 
+C 3258 1286 3258 2138 2310 2272 
+C 2995 2426 3194 2950 3194 3315 
+C 3194 3930 2714 4512 1747 4512 
+C 1389 4512 352 4403 314 3302 
+L 960 3302 
+C 1018 3853 1434 4000 1766 4000 
+C 2208 4000 2547 3802 2547 3302 
+C 2547 2586 1805 2496 1363 2534 
+L 1363 2016 
+C 1587 2022 1747 2029 1978 1984 
+C 2304 1914 2618 1670 2618 1203 
+C 2618 813 2355 416 1734 416 
+C 1190 416 915 717 922 1139 
+L 243 1139 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#Univers-30"/>
+       <use xlink:href="#Univers-2e" x="55.599991"/>
+       <use xlink:href="#Univers-33" x="83.399979"/>
+       <use xlink:href="#Univers-30" x="138.999969"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_8">
+     <g id="line2d_15">
+      <g>
+       <use xlink:href="#m479653e08c" x="153" y="167.711351" style="fill: #8b4513; stroke: #8b4513; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_16">
+      <!-- 0.35 -->
+      <g style="fill: #8b4513" transform="translate(126.542187 171.316039) scale(0.1 -0.1)">
+       <use xlink:href="#Univers-30"/>
+       <use xlink:href="#Univers-2e" x="55.599991"/>
+       <use xlink:href="#Univers-33" x="83.399979"/>
+       <use xlink:href="#Univers-35" x="138.999969"/>
+      </g>
+     </g>
+    </g>
+    <g id="text_17">
+     <!-- Projected Public School Ratio -->
+     <g style="fill: #8b4513" transform="translate(120.571875 469.41) rotate(-90) scale(0.1 -0.1)">
+      <defs>
+       <path id="Univers-6a" d="M 525 3942 
+L 1254 3942 
+L 1254 4608 
+L 525 4608 
+L 525 3942 
+z
+M -6 -1235 
+C 160 -1254 288 -1261 365 -1261 
+C 1171 -1261 1184 -608 1184 -301 
+L 1184 3213 
+L 582 3213 
+L 582 -230 
+C 582 -742 467 -826 -6 -806 
+L -6 -1235 
+z
+" transform="scale(0.015625)"/>
+       <path id="Univers-63" d="M 3002 2182 
+C 2989 2362 2970 2624 2733 2899 
+C 2438 3251 1958 3296 1747 3296 
+C 1107 3296 288 2899 288 1562 
+C 288 896 480 557 672 333 
+C 1011 -38 1510 -83 1728 -83 
+C 2522 -83 2989 442 3027 1069 
+L 2419 1069 
+C 2406 755 2234 371 1722 371 
+C 1082 371 922 986 922 1645 
+C 922 1888 922 2854 1754 2854 
+C 2336 2854 2381 2330 2394 2182 
+L 3002 2182 
+z
+" transform="scale(0.015625)"/>
+       <path id="Univers-62" d="M 1165 4621 
+L 563 4621 
+L 563 576 
+L 550 0 
+L 1133 0 
+L 1146 486 
+C 1210 390 1280 282 1459 160 
+C 1734 -26 2022 -45 2176 -45 
+C 2618 -45 3046 141 3302 506 
+C 3462 717 3610 1056 3610 1677 
+C 3610 2381 3392 2701 3232 2886 
+C 2938 3219 2534 3296 2214 3296 
+C 1485 3296 1248 2893 1165 2746 
+L 1165 4621 
+z
+M 2976 1638 
+C 2976 1114 2790 390 2048 390 
+C 1152 390 1152 1395 1152 1606 
+C 1152 1811 1152 2886 2074 2886 
+C 2912 2886 2976 1958 2976 1638 
+z
+" transform="scale(0.015625)"/>
+       <path id="Univers-53" d="M 358 1350 
+C 358 1126 365 755 627 416 
+C 992 -51 1709 -109 2061 -109 
+C 3245 -109 3885 512 3885 1331 
+C 3885 1523 3853 1971 3424 2253 
+C 3155 2432 3034 2458 1933 2739 
+C 1370 2874 1101 3014 1101 3424 
+C 1101 3885 1485 4173 2125 4173 
+C 2579 4173 3066 4045 3098 3469 
+L 3763 3469 
+C 3750 3661 3738 3974 3482 4256 
+C 3110 4659 2490 4710 2182 4710 
+C 1312 4710 422 4301 422 3360 
+C 422 3053 525 2707 902 2451 
+C 1139 2291 1453 2214 2157 2042 
+C 2803 1882 3219 1779 3219 1261 
+C 3219 1030 3098 435 2138 435 
+C 1075 435 1037 1030 1024 1350 
+L 358 1350 
+z
+" transform="scale(0.015625)"/>
+       <path id="Univers-68" d="M 563 0 
+L 1171 0 
+L 1171 1702 
+C 1171 1901 1171 2202 1274 2381 
+C 1357 2534 1581 2810 2029 2810 
+C 2720 2810 2720 2189 2720 1901 
+L 2720 0 
+L 3334 0 
+L 3334 2010 
+C 3334 2477 3290 2630 3226 2758 
+C 3040 3149 2554 3270 2214 3270 
+C 1766 3270 1370 3078 1171 2739 
+L 1171 4614 
+L 563 4614 
+L 563 0 
+z
+" transform="scale(0.015625)"/>
+       <path id="Univers-52" d="M 550 0 
+L 1184 0 
+L 1184 2086 
+L 1990 2086 
+C 2765 2086 2925 1894 3002 1222 
+C 3046 870 3110 307 3213 0 
+L 3898 0 
+C 3718 512 3674 909 3610 1453 
+C 3546 2029 3347 2227 2906 2342 
+C 3046 2381 3251 2445 3450 2643 
+C 3654 2848 3776 3136 3776 3462 
+C 3776 3834 3610 4186 3264 4403 
+C 2925 4621 2438 4621 2202 4621 
+L 550 4621 
+L 550 0 
+z
+M 1171 4083 
+L 2182 4083 
+C 2438 4083 3104 4083 3104 3334 
+C 3104 2950 2880 2784 2790 2733 
+C 2618 2630 2253 2630 2182 2630 
+L 1171 2630 
+L 1171 4083 
+z
+" transform="scale(0.015625)"/>
+      </defs>
+      <use xlink:href="#Univers-50"/>
+      <use xlink:href="#Univers-72" x="61.099991"/>
+      <use xlink:href="#Univers-6f" x="99.999985"/>
+      <use xlink:href="#Univers-6a" x="161.099976"/>
+      <use xlink:href="#Univers-65" x="188.899963"/>
+      <use xlink:href="#Univers-63" x="244.499954"/>
+      <use xlink:href="#Univers-74" x="294.499939"/>
+      <use xlink:href="#Univers-65" x="327.799927"/>
+      <use xlink:href="#Univers-64" x="383.399918"/>
+      <use xlink:href="#Univers-20" x="444.499908"/>
+      <use xlink:href="#Univers-50" x="472.299896"/>
+      <use xlink:href="#Univers-75" x="533.399887"/>
+      <use xlink:href="#Univers-62" x="594.499878"/>
+      <use xlink:href="#Univers-6c" x="655.599869"/>
+      <use xlink:href="#Univers-69" x="683.399857"/>
+      <use xlink:href="#Univers-63" x="711.199844"/>
+      <use xlink:href="#Univers-20" x="761.199829"/>
+      <use xlink:href="#Univers-53" x="788.999817"/>
+      <use xlink:href="#Univers-63" x="855.699814"/>
+      <use xlink:href="#Univers-68" x="905.699799"/>
+      <use xlink:href="#Univers-6f" x="966.799789"/>
+      <use xlink:href="#Univers-6f" x="1027.89978"/>
+      <use xlink:href="#Univers-6c" x="1088.999771"/>
+      <use xlink:href="#Univers-20" x="1116.799759"/>
+      <use xlink:href="#Univers-52" x="1144.599747"/>
+      <use xlink:href="#Univers-61" x="1211.299744"/>
+      <use xlink:href="#Univers-74" x="1266.899734"/>
+      <use xlink:href="#Univers-69" x="1300.199722"/>
+      <use xlink:href="#Univers-6f" x="1327.99971"/>
+     </g>
+    </g>
+   </g>
+   <g id="line2d_16">
+    <path d="M 219.501461 632.208649 
+L 219.501461 677.16 
+L 219.501461 662.176216 
+" clip-path="url(#p2b23074654)" style="fill: none; stroke: #fffddd; stroke-width: 1.5; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_17">
+    <path d="M 697.624606 632.208649 
+L 697.624606 677.16 
+L 697.624606 662.176216 
+" clip-path="url(#p2b23074654)" style="fill: none; stroke: #f27f1b; stroke-width: 1.5; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_18">
+    <path d="M 282.624901 632.208649 
+L 282.624901 677.16 
+L 282.624901 662.176216 
+" clip-path="url(#p2b23074654)" style="fill: none; stroke: #fff9c5; stroke-width: 1.5; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_19">
+    <path d="M 196.118182 587.257297 
+L 196.118182 647.192432 
+L 196.118182 662.176216 
+" clip-path="url(#p2b23074654)" style="fill: none; stroke: #ffffe5; stroke-width: 1.5; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_20">
+    <path d="M 259.655359 557.28973 
+L 259.655359 647.192432 
+L 259.655359 662.176216 
+" clip-path="url(#p2b23074654)" style="fill: none; stroke: #ffface; stroke-width: 1.5; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_21">
+    <path d="M 203.522649 587.257297 
+L 203.522649 662.176216 
+L 203.522649 662.176216 
+" clip-path="url(#p2b23074654)" style="fill: none; stroke: #fffee2; stroke-width: 1.5; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_22">
+    <path d="M 236.992553 347.516757 
+L 236.992553 572.273514 
+L 236.992553 497.354595 
+" clip-path="url(#p2b23074654)" style="fill: none; stroke: #fffcd6; stroke-width: 1.5; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_23">
+    <path d="M 323.356605 392.468108 
+L 323.356605 557.28973 
+L 323.356605 497.354595 
+" clip-path="url(#p2b23074654)" style="fill: none; stroke: #fff4b5; stroke-width: 1.5; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_24">
+    <path d="M 243.391211 362.500541 
+L 243.391211 557.28973 
+L 243.391211 497.354595 
+" clip-path="url(#p2b23074654)" style="fill: none; stroke: #fffbd3; stroke-width: 1.5; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_25">
+    <path d="M 281.462157 377.484324 
+L 281.462157 572.273514 
+L 281.462157 497.354595 
+" clip-path="url(#p2b23074654)" style="fill: none; stroke: #fff9c5; stroke-width: 1.5; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_26">
+    <path d="M 358.624125 332.532973 
+L 358.624125 527.322162 
+L 358.624125 497.354595 
+" clip-path="url(#p2b23074654)" style="fill: none; stroke: #feeda6; stroke-width: 1.5; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_27">
+    <path d="M 254.797515 287.581622 
+L 254.797515 512.338378 
+L 254.797515 497.354595 
+" clip-path="url(#p2b23074654)" style="fill: none; stroke: #fffbcf; stroke-width: 1.5; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_28">
+    <path d="M 391.987028 617.224865 
+L 391.987028 677.16 
+L 391.987028 617.224865 
+" clip-path="url(#p2b23074654)" style="fill: none; stroke: #fee799; stroke-width: 1.5; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_29">
+    <path d="M 473.243567 632.208649 
+L 473.243567 677.16 
+L 473.243567 617.224865 
+" clip-path="url(#p2b23074654)" style="fill: none; stroke: #fed16b; stroke-width: 1.5; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_30">
+    <path d="M 427.825221 437.419459 
+L 427.825221 632.208649 
+L 427.825221 617.224865 
+" clip-path="url(#p2b23074654)" style="fill: none; stroke: #fedf88; stroke-width: 1.5; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_31">
+    <path d="M 288.959359 557.28973 
+L 288.959359 632.208649 
+L 288.959359 617.224865 
+" clip-path="url(#p2b23074654)" style="fill: none; stroke: #fff8c2; stroke-width: 1.5; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_32">
+    <path d="M 299.110184 572.273514 
+L 299.110184 662.176216 
+L 299.110184 617.224865 
+" clip-path="url(#p2b23074654)" style="fill: none; stroke: #fff7be; stroke-width: 1.5; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_33">
+    <path d="M 215.085888 497.354595 
+L 215.085888 572.273514 
+L 215.085888 617.224865 
+" clip-path="url(#p2b23074654)" style="fill: none; stroke: #fffedf; stroke-width: 1.5; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_34">
+    <path d="M 345.420205 422.435676 
+L 345.420205 572.273514 
+L 345.420205 617.224865 
+" clip-path="url(#p2b23074654)" style="fill: none; stroke: #ffefac; stroke-width: 1.5; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_35">
+    <path d="M 409.221318 407.451892 
+L 409.221318 587.257297 
+L 409.221318 617.224865 
+" clip-path="url(#p2b23074654)" style="fill: none; stroke: #fee392; stroke-width: 1.5; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_36">
+    <path d="M 378.775975 482.370811 
+L 378.775975 617.224865 
+L 378.775975 617.224865 
+" clip-path="url(#p2b23074654)" style="fill: none; stroke: #fee99e; stroke-width: 1.5; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_37">
+    <path d="M 365.843124 467.387027 
+L 365.843124 617.224865 
+L 365.843124 617.224865 
+" clip-path="url(#p2b23074654)" style="fill: none; stroke: #feeca4; stroke-width: 1.5; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_38">
+    <path d="M 238.233765 482.370811 
+L 238.233765 602.241081 
+L 238.233765 617.224865 
+" clip-path="url(#p2b23074654)" style="fill: none; stroke: #fffcd6; stroke-width: 1.5; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_39">
+    <path d="M 473.507502 122.76 
+L 473.507502 497.354595 
+L 473.507502 542.305946 
+" clip-path="url(#p2b23074654)" style="fill: none; stroke: #fed16b; stroke-width: 1.5; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_40">
+    <path d="M 565.585406 362.500541 
+L 565.585406 587.257297 
+L 565.585406 542.305946 
+" clip-path="url(#p2b23074654)" style="fill: none; stroke: #feb23f; stroke-width: 1.5; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_41">
+    <path d="M 475.711723 257.614054 
+L 475.711723 497.354595 
+L 475.711723 542.305946 
+" clip-path="url(#p2b23074654)" style="fill: none; stroke: #fed16b; stroke-width: 1.5; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_42">
+    <path d="M 616.353801 437.419459 
+L 616.353801 587.257297 
+L 616.353801 542.305946 
+" clip-path="url(#p2b23074654)" style="fill: none; stroke: #fe9e2d; stroke-width: 1.5; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_43">
+    <path d="M 390.075278 362.500541 
+L 390.075278 572.273514 
+L 390.075278 542.305946 
+" clip-path="url(#p2b23074654)" style="fill: none; stroke: #fee79a; stroke-width: 1.5; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_44">
+    <path d="M 431.313452 197.678919 
+L 431.313452 482.370811 
+L 431.313452 542.305946 
+" clip-path="url(#p2b23074654)" style="fill: none; stroke: #fede86; stroke-width: 1.5; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_45">
+    <path d="M 452.606646 527.322162 
+L 452.606646 632.208649 
+L 452.606646 542.305946 
+" clip-path="url(#p2b23074654)" style="fill: none; stroke: #fed778; stroke-width: 1.5; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_46">
+    <path d="M 1058.481818 317.549189 
+L 1058.481818 572.273514 
+L 1058.481818 557.28973 
+" clip-path="url(#p2b23074654)" style="fill: none; stroke: #662506; stroke-width: 1.5; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_47">
+    <path d="M 293.103863 557.28973 
+L 293.103863 632.208649 
+L 293.103863 617.224865 
+" clip-path="url(#p2b23074654)" style="fill: none; stroke: #fff8c1; stroke-width: 1.5; stroke-linecap: square"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 153 704.88 
+L 153 95.04 
+" style="fill: none; stroke: #8b4513; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 153 704.88 
+L 1101.6 704.88 
+" style="fill: none; stroke: #8b4513; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="legend_1">
+    <g id="patch_5">
+     <path d="M 1010.364063 145.729062 
+L 1094.6 145.729062 
+Q 1096.6 145.729062 1096.6 143.729062 
+L 1096.6 102.04 
+Q 1096.6 100.04 1094.6 100.04 
+L 1010.364063 100.04 
+Q 1008.364063 100.04 1008.364063 102.04 
+L 1008.364063 143.729062 
+Q 1008.364063 145.729062 1010.364063 145.729062 
+z
+" style="fill: #ffffff; opacity: 0.8; stroke: #cccccc; stroke-linejoin: miter"/>
+    </g>
+    <g id="PathCollection_1">
+     <defs>
+      <path id="me0d15a69f7" d="M 0 2.236068 
+C 0.593012 2.236068 1.161816 2.000462 1.581139 1.581139 
+C 2.000462 1.161816 2.236068 0.593012 2.236068 0 
+C 2.236068 -0.593012 2.000462 -1.161816 1.581139 -1.581139 
+C 1.161816 -2.000462 0.593012 -2.236068 0 -2.236068 
+C -0.593012 -2.236068 -1.161816 -2.000462 -1.581139 -1.581139 
+C -2.000462 -1.161816 -2.236068 -0.593012 -2.236068 0 
+C -2.236068 0.593012 -2.000462 1.161816 -1.581139 1.581139 
+C -1.161816 2.000462 -0.593012 2.236068 0 2.236068 
+z
+" style="stroke: #ffa500"/>
+     </defs>
+     <g>
+      <use xlink:href="#me0d15a69f7" x="1022.364063" y="108.635312" style="fill: #ffa500; stroke: #ffa500"/>
+     </g>
+    </g>
+    <g id="text_18">
+     <!-- Ages 4-10 -->
+     <g transform="translate(1040.364063 111.260312) scale(0.1 -0.1)">
+      <defs>
+       <path id="Univers-41" d="M 58 0 
+L 717 0 
+L 1216 1203 
+L 3360 1203 
+L 3859 0 
+L 4557 0 
+L 2688 4621 
+L 2003 4621 
+L 58 0 
+z
+M 2317 3987 
+L 3168 1722 
+L 1421 1722 
+L 2317 3987 
+z
+" transform="scale(0.015625)"/>
+       <path id="Univers-67" d="M 499 -250 
+C 525 -685 563 -1286 1850 -1286 
+C 2291 -1286 2918 -1222 3187 -710 
+C 3315 -467 3341 -154 3341 621 
+L 3347 2630 
+L 3360 3213 
+L 2778 3213 
+L 2771 2771 
+C 2643 2938 2406 3258 1760 3258 
+C 973 3258 333 2726 333 1638 
+C 333 1210 422 781 698 454 
+C 966 122 1389 58 1683 58 
+C 1875 58 2483 70 2739 602 
+C 2739 -269 2726 -877 1888 -877 
+C 1318 -877 1165 -608 1139 -250 
+L 499 -250 
+z
+M 1837 506 
+C 1101 506 954 1158 954 1651 
+C 954 2061 1056 2829 1818 2829 
+C 2093 2829 2349 2720 2509 2547 
+C 2669 2381 2758 2150 2758 1747 
+C 2758 1165 2669 992 2541 826 
+C 2394 634 2189 506 1837 506 
+z
+" transform="scale(0.015625)"/>
+      </defs>
+      <use xlink:href="#Univers-41"/>
+      <use xlink:href="#Univers-67" x="72.199982"/>
+      <use xlink:href="#Univers-65" x="133.299973"/>
+      <use xlink:href="#Univers-73" x="188.899963"/>
+      <use xlink:href="#Univers-20" x="238.899948"/>
+      <use xlink:href="#Univers-34" x="266.699936"/>
+      <use xlink:href="#Univers-2d" x="322.299927"/>
+      <use xlink:href="#Univers-31" x="355.599915"/>
+      <use xlink:href="#Univers-30" x="411.199905"/>
+     </g>
+    </g>
+    <g id="PathCollection_2">
+     <defs>
+      <path id="m0740faf9cc" d="M -2.236068 2.236068 
+L 2.236068 -2.236068 
+M -2.236068 -2.236068 
+L 2.236068 2.236068 
+" style="stroke: #cd853f; stroke-width: 1.5"/>
+     </defs>
+     <g>
+      <use xlink:href="#m0740faf9cc" x="1022.364063" y="122.865" style="fill: #cd853f; stroke: #cd853f; stroke-width: 1.5"/>
+     </g>
+    </g>
+    <g id="text_19">
+     <!-- Ages 11-13 -->
+     <g transform="translate(1040.364063 125.49) scale(0.1 -0.1)">
+      <use xlink:href="#Univers-41"/>
+      <use xlink:href="#Univers-67" x="72.199982"/>
+      <use xlink:href="#Univers-65" x="133.299973"/>
+      <use xlink:href="#Univers-73" x="188.899963"/>
+      <use xlink:href="#Univers-20" x="238.899948"/>
+      <use xlink:href="#Univers-31" x="266.699936"/>
+      <use xlink:href="#Univers-31" x="322.299927"/>
+      <use xlink:href="#Univers-2d" x="377.899918"/>
+      <use xlink:href="#Univers-31" x="411.199905"/>
+      <use xlink:href="#Univers-33" x="466.799896"/>
+     </g>
+    </g>
+    <g id="PathCollection_3">
+     <defs>
+      <path id="m6e80639c40" d="M -2.236068 2.236068 
+L 2.236068 2.236068 
+L 2.236068 -2.236068 
+L -2.236068 -2.236068 
+z
+" style="stroke: #8b4513"/>
+     </defs>
+     <g>
+      <use xlink:href="#m6e80639c40" x="1022.364063" y="137.094687" style="fill: #8b4513; stroke: #8b4513"/>
+     </g>
+    </g>
+    <g id="text_20">
+     <!-- Ages 14-17 -->
+     <g transform="translate(1040.364063 139.719687) scale(0.1 -0.1)">
+      <defs>
+       <path id="Univers-37" d="M 224 3898 
+L 2502 3898 
+L 800 0 
+L 1523 0 
+L 3149 3891 
+L 3149 4429 
+L 224 4429 
+L 224 3898 
+z
+" transform="scale(0.015625)"/>
+      </defs>
+      <use xlink:href="#Univers-41"/>
+      <use xlink:href="#Univers-67" x="72.199982"/>
+      <use xlink:href="#Univers-65" x="133.299973"/>
+      <use xlink:href="#Univers-73" x="188.899963"/>
+      <use xlink:href="#Univers-20" x="238.899948"/>
+      <use xlink:href="#Univers-31" x="266.699936"/>
+      <use xlink:href="#Univers-34" x="322.299927"/>
+      <use xlink:href="#Univers-2d" x="377.899918"/>
+      <use xlink:href="#Univers-31" x="411.199905"/>
+      <use xlink:href="#Univers-37" x="466.799896"/>
+     </g>
+    </g>
+   </g>
+   <g id="PathCollection_4">
+    <g clip-path="url(#p2b23074654)">
+     <use xlink:href="#me0d15a69f7" x="219.501461" y="632.208649" style="fill: #ffa500; stroke: #ffa500"/>
+     <use xlink:href="#me0d15a69f7" x="697.624606" y="632.208649" style="fill: #ffa500; stroke: #ffa500"/>
+     <use xlink:href="#me0d15a69f7" x="282.624901" y="632.208649" style="fill: #ffa500; stroke: #ffa500"/>
+     <use xlink:href="#me0d15a69f7" x="196.118182" y="587.257297" style="fill: #ffa500; stroke: #ffa500"/>
+     <use xlink:href="#me0d15a69f7" x="259.655359" y="557.28973" style="fill: #ffa500; stroke: #ffa500"/>
+     <use xlink:href="#me0d15a69f7" x="203.522649" y="587.257297" style="fill: #ffa500; stroke: #ffa500"/>
+     <use xlink:href="#me0d15a69f7" x="236.992553" y="347.516757" style="fill: #ffa500; stroke: #ffa500"/>
+     <use xlink:href="#me0d15a69f7" x="323.356605" y="392.468108" style="fill: #ffa500; stroke: #ffa500"/>
+     <use xlink:href="#me0d15a69f7" x="243.391211" y="362.500541" style="fill: #ffa500; stroke: #ffa500"/>
+     <use xlink:href="#me0d15a69f7" x="281.462157" y="377.484324" style="fill: #ffa500; stroke: #ffa500"/>
+     <use xlink:href="#me0d15a69f7" x="358.624125" y="332.532973" style="fill: #ffa500; stroke: #ffa500"/>
+     <use xlink:href="#me0d15a69f7" x="254.797515" y="287.581622" style="fill: #ffa500; stroke: #ffa500"/>
+     <use xlink:href="#me0d15a69f7" x="391.987028" y="617.224865" style="fill: #ffa500; stroke: #ffa500"/>
+     <use xlink:href="#me0d15a69f7" x="473.243567" y="632.208649" style="fill: #ffa500; stroke: #ffa500"/>
+     <use xlink:href="#me0d15a69f7" x="427.825221" y="437.419459" style="fill: #ffa500; stroke: #ffa500"/>
+     <use xlink:href="#me0d15a69f7" x="288.959359" y="557.28973" style="fill: #ffa500; stroke: #ffa500"/>
+     <use xlink:href="#me0d15a69f7" x="299.110184" y="572.273514" style="fill: #ffa500; stroke: #ffa500"/>
+     <use xlink:href="#me0d15a69f7" x="215.085888" y="497.354595" style="fill: #ffa500; stroke: #ffa500"/>
+     <use xlink:href="#me0d15a69f7" x="345.420205" y="422.435676" style="fill: #ffa500; stroke: #ffa500"/>
+     <use xlink:href="#me0d15a69f7" x="409.221318" y="407.451892" style="fill: #ffa500; stroke: #ffa500"/>
+     <use xlink:href="#me0d15a69f7" x="378.775975" y="482.370811" style="fill: #ffa500; stroke: #ffa500"/>
+     <use xlink:href="#me0d15a69f7" x="365.843124" y="467.387027" style="fill: #ffa500; stroke: #ffa500"/>
+     <use xlink:href="#me0d15a69f7" x="238.233765" y="482.370811" style="fill: #ffa500; stroke: #ffa500"/>
+     <use xlink:href="#me0d15a69f7" x="473.507502" y="122.76" style="fill: #ffa500; stroke: #ffa500"/>
+     <use xlink:href="#me0d15a69f7" x="565.585406" y="362.500541" style="fill: #ffa500; stroke: #ffa500"/>
+     <use xlink:href="#me0d15a69f7" x="475.711723" y="257.614054" style="fill: #ffa500; stroke: #ffa500"/>
+     <use xlink:href="#me0d15a69f7" x="616.353801" y="437.419459" style="fill: #ffa500; stroke: #ffa500"/>
+     <use xlink:href="#me0d15a69f7" x="390.075278" y="362.500541" style="fill: #ffa500; stroke: #ffa500"/>
+     <use xlink:href="#me0d15a69f7" x="431.313452" y="197.678919" style="fill: #ffa500; stroke: #ffa500"/>
+     <use xlink:href="#me0d15a69f7" x="452.606646" y="527.322162" style="fill: #ffa500; stroke: #ffa500"/>
+     <use xlink:href="#me0d15a69f7" x="1058.481818" y="317.549189" style="fill: #ffa500; stroke: #ffa500"/>
+     <use xlink:href="#me0d15a69f7" x="293.103863" y="557.28973" style="fill: #ffa500; stroke: #ffa500"/>
+    </g>
+   </g>
+   <g id="PathCollection_5">
+    <g clip-path="url(#p2b23074654)">
+     <use xlink:href="#m0740faf9cc" x="219.501461" y="677.16" style="fill: #cd853f; stroke: #cd853f; stroke-width: 1.5"/>
+     <use xlink:href="#m0740faf9cc" x="697.624606" y="677.16" style="fill: #cd853f; stroke: #cd853f; stroke-width: 1.5"/>
+     <use xlink:href="#m0740faf9cc" x="282.624901" y="677.16" style="fill: #cd853f; stroke: #cd853f; stroke-width: 1.5"/>
+     <use xlink:href="#m0740faf9cc" x="196.118182" y="647.192432" style="fill: #cd853f; stroke: #cd853f; stroke-width: 1.5"/>
+     <use xlink:href="#m0740faf9cc" x="259.655359" y="647.192432" style="fill: #cd853f; stroke: #cd853f; stroke-width: 1.5"/>
+     <use xlink:href="#m0740faf9cc" x="203.522649" y="662.176216" style="fill: #cd853f; stroke: #cd853f; stroke-width: 1.5"/>
+     <use xlink:href="#m0740faf9cc" x="236.992553" y="572.273514" style="fill: #cd853f; stroke: #cd853f; stroke-width: 1.5"/>
+     <use xlink:href="#m0740faf9cc" x="323.356605" y="557.28973" style="fill: #cd853f; stroke: #cd853f; stroke-width: 1.5"/>
+     <use xlink:href="#m0740faf9cc" x="243.391211" y="557.28973" style="fill: #cd853f; stroke: #cd853f; stroke-width: 1.5"/>
+     <use xlink:href="#m0740faf9cc" x="281.462157" y="572.273514" style="fill: #cd853f; stroke: #cd853f; stroke-width: 1.5"/>
+     <use xlink:href="#m0740faf9cc" x="358.624125" y="527.322162" style="fill: #cd853f; stroke: #cd853f; stroke-width: 1.5"/>
+     <use xlink:href="#m0740faf9cc" x="254.797515" y="512.338378" style="fill: #cd853f; stroke: #cd853f; stroke-width: 1.5"/>
+     <use xlink:href="#m0740faf9cc" x="391.987028" y="677.16" style="fill: #cd853f; stroke: #cd853f; stroke-width: 1.5"/>
+     <use xlink:href="#m0740faf9cc" x="473.243567" y="677.16" style="fill: #cd853f; stroke: #cd853f; stroke-width: 1.5"/>
+     <use xlink:href="#m0740faf9cc" x="427.825221" y="632.208649" style="fill: #cd853f; stroke: #cd853f; stroke-width: 1.5"/>
+     <use xlink:href="#m0740faf9cc" x="288.959359" y="632.208649" style="fill: #cd853f; stroke: #cd853f; stroke-width: 1.5"/>
+     <use xlink:href="#m0740faf9cc" x="299.110184" y="662.176216" style="fill: #cd853f; stroke: #cd853f; stroke-width: 1.5"/>
+     <use xlink:href="#m0740faf9cc" x="215.085888" y="572.273514" style="fill: #cd853f; stroke: #cd853f; stroke-width: 1.5"/>
+     <use xlink:href="#m0740faf9cc" x="345.420205" y="572.273514" style="fill: #cd853f; stroke: #cd853f; stroke-width: 1.5"/>
+     <use xlink:href="#m0740faf9cc" x="409.221318" y="587.257297" style="fill: #cd853f; stroke: #cd853f; stroke-width: 1.5"/>
+     <use xlink:href="#m0740faf9cc" x="378.775975" y="617.224865" style="fill: #cd853f; stroke: #cd853f; stroke-width: 1.5"/>
+     <use xlink:href="#m0740faf9cc" x="365.843124" y="617.224865" style="fill: #cd853f; stroke: #cd853f; stroke-width: 1.5"/>
+     <use xlink:href="#m0740faf9cc" x="238.233765" y="602.241081" style="fill: #cd853f; stroke: #cd853f; stroke-width: 1.5"/>
+     <use xlink:href="#m0740faf9cc" x="473.507502" y="497.354595" style="fill: #cd853f; stroke: #cd853f; stroke-width: 1.5"/>
+     <use xlink:href="#m0740faf9cc" x="565.585406" y="587.257297" style="fill: #cd853f; stroke: #cd853f; stroke-width: 1.5"/>
+     <use xlink:href="#m0740faf9cc" x="475.711723" y="497.354595" style="fill: #cd853f; stroke: #cd853f; stroke-width: 1.5"/>
+     <use xlink:href="#m0740faf9cc" x="616.353801" y="587.257297" style="fill: #cd853f; stroke: #cd853f; stroke-width: 1.5"/>
+     <use xlink:href="#m0740faf9cc" x="390.075278" y="572.273514" style="fill: #cd853f; stroke: #cd853f; stroke-width: 1.5"/>
+     <use xlink:href="#m0740faf9cc" x="431.313452" y="482.370811" style="fill: #cd853f; stroke: #cd853f; stroke-width: 1.5"/>
+     <use xlink:href="#m0740faf9cc" x="452.606646" y="632.208649" style="fill: #cd853f; stroke: #cd853f; stroke-width: 1.5"/>
+     <use xlink:href="#m0740faf9cc" x="1058.481818" y="572.273514" style="fill: #cd853f; stroke: #cd853f; stroke-width: 1.5"/>
+     <use xlink:href="#m0740faf9cc" x="293.103863" y="632.208649" style="fill: #cd853f; stroke: #cd853f; stroke-width: 1.5"/>
+    </g>
+   </g>
+   <g id="PathCollection_6">
+    <g clip-path="url(#p2b23074654)">
+     <use xlink:href="#m6e80639c40" x="219.501461" y="662.176216" style="fill: #8b4513; stroke: #8b4513"/>
+     <use xlink:href="#m6e80639c40" x="697.624606" y="662.176216" style="fill: #8b4513; stroke: #8b4513"/>
+     <use xlink:href="#m6e80639c40" x="282.624901" y="662.176216" style="fill: #8b4513; stroke: #8b4513"/>
+     <use xlink:href="#m6e80639c40" x="196.118182" y="662.176216" style="fill: #8b4513; stroke: #8b4513"/>
+     <use xlink:href="#m6e80639c40" x="259.655359" y="662.176216" style="fill: #8b4513; stroke: #8b4513"/>
+     <use xlink:href="#m6e80639c40" x="203.522649" y="662.176216" style="fill: #8b4513; stroke: #8b4513"/>
+     <use xlink:href="#m6e80639c40" x="236.992553" y="497.354595" style="fill: #8b4513; stroke: #8b4513"/>
+     <use xlink:href="#m6e80639c40" x="323.356605" y="497.354595" style="fill: #8b4513; stroke: #8b4513"/>
+     <use xlink:href="#m6e80639c40" x="243.391211" y="497.354595" style="fill: #8b4513; stroke: #8b4513"/>
+     <use xlink:href="#m6e80639c40" x="281.462157" y="497.354595" style="fill: #8b4513; stroke: #8b4513"/>
+     <use xlink:href="#m6e80639c40" x="358.624125" y="497.354595" style="fill: #8b4513; stroke: #8b4513"/>
+     <use xlink:href="#m6e80639c40" x="254.797515" y="497.354595" style="fill: #8b4513; stroke: #8b4513"/>
+     <use xlink:href="#m6e80639c40" x="391.987028" y="617.224865" style="fill: #8b4513; stroke: #8b4513"/>
+     <use xlink:href="#m6e80639c40" x="473.243567" y="617.224865" style="fill: #8b4513; stroke: #8b4513"/>
+     <use xlink:href="#m6e80639c40" x="427.825221" y="617.224865" style="fill: #8b4513; stroke: #8b4513"/>
+     <use xlink:href="#m6e80639c40" x="288.959359" y="617.224865" style="fill: #8b4513; stroke: #8b4513"/>
+     <use xlink:href="#m6e80639c40" x="299.110184" y="617.224865" style="fill: #8b4513; stroke: #8b4513"/>
+     <use xlink:href="#m6e80639c40" x="215.085888" y="617.224865" style="fill: #8b4513; stroke: #8b4513"/>
+     <use xlink:href="#m6e80639c40" x="345.420205" y="617.224865" style="fill: #8b4513; stroke: #8b4513"/>
+     <use xlink:href="#m6e80639c40" x="409.221318" y="617.224865" style="fill: #8b4513; stroke: #8b4513"/>
+     <use xlink:href="#m6e80639c40" x="378.775975" y="617.224865" style="fill: #8b4513; stroke: #8b4513"/>
+     <use xlink:href="#m6e80639c40" x="365.843124" y="617.224865" style="fill: #8b4513; stroke: #8b4513"/>
+     <use xlink:href="#m6e80639c40" x="238.233765" y="617.224865" style="fill: #8b4513; stroke: #8b4513"/>
+     <use xlink:href="#m6e80639c40" x="473.507502" y="542.305946" style="fill: #8b4513; stroke: #8b4513"/>
+     <use xlink:href="#m6e80639c40" x="565.585406" y="542.305946" style="fill: #8b4513; stroke: #8b4513"/>
+     <use xlink:href="#m6e80639c40" x="475.711723" y="542.305946" style="fill: #8b4513; stroke: #8b4513"/>
+     <use xlink:href="#m6e80639c40" x="616.353801" y="542.305946" style="fill: #8b4513; stroke: #8b4513"/>
+     <use xlink:href="#m6e80639c40" x="390.075278" y="542.305946" style="fill: #8b4513; stroke: #8b4513"/>
+     <use xlink:href="#m6e80639c40" x="431.313452" y="542.305946" style="fill: #8b4513; stroke: #8b4513"/>
+     <use xlink:href="#m6e80639c40" x="452.606646" y="542.305946" style="fill: #8b4513; stroke: #8b4513"/>
+     <use xlink:href="#m6e80639c40" x="1058.481818" y="557.28973" style="fill: #8b4513; stroke: #8b4513"/>
+     <use xlink:href="#m6e80639c40" x="293.103863" y="617.224865" style="fill: #8b4513; stroke: #8b4513"/>
+    </g>
+   </g>
+  </g>
+  <g id="text_21">
+   <!-- DOB Permit Issuance by Projected Public School Ratio  -->
+   <g transform="translate(301.963125 33.6225) scale(0.24 -0.24)">
+    <defs>
+     <path id="Univers-44" d="M 563 0 
+L 1862 0 
+C 2541 0 3110 0 3565 378 
+C 3917 659 4333 1274 4333 2272 
+C 4333 2906 4173 3539 3763 4019 
+C 3251 4621 2522 4621 1901 4621 
+L 563 4621 
+L 563 0 
+z
+M 1203 4090 
+L 1971 4090 
+C 2534 4090 2906 4013 3200 3686 
+C 3635 3206 3648 2419 3648 2246 
+C 3648 1978 3629 1222 3040 781 
+C 2733 550 2272 525 1830 525 
+L 1203 525 
+L 1203 4090 
+z
+" transform="scale(0.015625)"/>
+     <path id="Univers-4f" d="M 378 2278 
+C 378 1011 890 -109 2464 -109 
+C 4109 -109 4602 1126 4602 2355 
+C 4602 3923 3795 4742 2515 4742 
+C 2086 4742 1453 4640 973 4122 
+C 467 3578 378 2803 378 2278 
+z
+M 1050 2317 
+C 1050 3264 1350 4205 2522 4205 
+C 3578 4205 3923 3411 3923 2362 
+C 3923 2048 3885 1318 3507 858 
+C 3238 538 2861 435 2483 435 
+C 2118 435 1722 531 1459 858 
+C 1139 1254 1050 1811 1050 2317 
+z
+" transform="scale(0.015625)"/>
+     <path id="Univers-42" d="M 608 0 
+L 2291 0 
+C 2656 0 3014 0 3334 211 
+C 3488 314 3891 634 3891 1261 
+C 3891 2144 3238 2336 2970 2413 
+C 3194 2496 3750 2694 3750 3456 
+C 3750 3821 3622 4090 3424 4282 
+C 3136 4563 2822 4621 2259 4621 
+L 608 4621 
+L 608 0 
+z
+M 1229 4096 
+L 2150 4096 
+C 2502 4096 3085 4096 3085 3398 
+C 3085 2669 2342 2669 2125 2669 
+L 1229 2669 
+L 1229 4096 
+z
+M 1229 2118 
+L 2349 2118 
+C 2912 2118 3232 1779 3232 1318 
+C 3232 787 2829 518 2323 518 
+L 1229 518 
+L 1229 2118 
+z
+" transform="scale(0.015625)"/>
+     <path id="Univers-6e" d="M 582 0 
+L 1184 0 
+L 1184 1850 
+C 1184 2496 1587 2810 2022 2810 
+C 2227 2810 2438 2739 2592 2592 
+C 2739 2445 2765 2253 2765 2042 
+L 2765 0 
+L 3379 0 
+L 3379 2182 
+C 3379 3168 2502 3277 2214 3277 
+C 1485 3277 1254 2829 1184 2694 
+L 1178 3213 
+L 576 3213 
+L 582 2842 
+L 582 0 
+z
+" transform="scale(0.015625)"/>
+     <path id="Univers-79" d="M 3437 3213 
+L 2784 3213 
+L 1760 678 
+L 755 3213 
+L 77 3213 
+L 1414 13 
+L 928 -1216 
+L 1549 -1216 
+L 2010 -19 
+L 3437 3213 
+z
+" transform="scale(0.015625)"/>
+    </defs>
+    <use xlink:href="#Univers-44"/>
+    <use xlink:href="#Univers-4f" x="72.199982"/>
+    <use xlink:href="#Univers-42" x="149.999969"/>
+    <use xlink:href="#Univers-20" x="216.699966"/>
+    <use xlink:href="#Univers-50" x="244.499954"/>
+    <use xlink:href="#Univers-65" x="305.599945"/>
+    <use xlink:href="#Univers-72" x="361.199936"/>
+    <use xlink:href="#Univers-6d" x="400.09993"/>
+    <use xlink:href="#Univers-69" x="494.499924"/>
+    <use xlink:href="#Univers-74" x="522.299911"/>
+    <use xlink:href="#Univers-20" x="555.599899"/>
+    <use xlink:href="#Univers-49" x="583.399887"/>
+    <use xlink:href="#Univers-73" x="611.199875"/>
+    <use xlink:href="#Univers-73" x="661.19986"/>
+    <use xlink:href="#Univers-75" x="711.199844"/>
+    <use xlink:href="#Univers-61" x="772.299835"/>
+    <use xlink:href="#Univers-6e" x="827.899826"/>
+    <use xlink:href="#Univers-63" x="888.999817"/>
+    <use xlink:href="#Univers-65" x="938.999802"/>
+    <use xlink:href="#Univers-20" x="994.599792"/>
+    <use xlink:href="#Univers-62" x="1022.39978"/>
+    <use xlink:href="#Univers-79" x="1083.499771"/>
+    <use xlink:href="#Univers-20" x="1139.099762"/>
+    <use xlink:href="#Univers-50" x="1166.89975"/>
+    <use xlink:href="#Univers-72" x="1227.999741"/>
+    <use xlink:href="#Univers-6f" x="1266.899734"/>
+    <use xlink:href="#Univers-6a" x="1327.999725"/>
+    <use xlink:href="#Univers-65" x="1355.799713"/>
+    <use xlink:href="#Univers-63" x="1411.399704"/>
+    <use xlink:href="#Univers-74" x="1461.399689"/>
+    <use xlink:href="#Univers-65" x="1494.699677"/>
+    <use xlink:href="#Univers-64" x="1550.299667"/>
+    <use xlink:href="#Univers-20" x="1611.399658"/>
+    <use xlink:href="#Univers-50" x="1639.199646"/>
+    <use xlink:href="#Univers-75" x="1700.299637"/>
+    <use xlink:href="#Univers-62" x="1761.399628"/>
+    <use xlink:href="#Univers-6c" x="1822.499619"/>
+    <use xlink:href="#Univers-69" x="1850.299606"/>
+    <use xlink:href="#Univers-63" x="1878.099594"/>
+    <use xlink:href="#Univers-20" x="1928.099579"/>
+    <use xlink:href="#Univers-53" x="1955.899567"/>
+    <use xlink:href="#Univers-63" x="2022.599564"/>
+    <use xlink:href="#Univers-68" x="2072.599548"/>
+    <use xlink:href="#Univers-6f" x="2133.699539"/>
+    <use xlink:href="#Univers-6f" x="2194.79953"/>
+    <use xlink:href="#Univers-6c" x="2255.899521"/>
+    <use xlink:href="#Univers-20" x="2283.699509"/>
+    <use xlink:href="#Univers-52" x="2311.499496"/>
+    <use xlink:href="#Univers-61" x="2378.199493"/>
+    <use xlink:href="#Univers-74" x="2433.799484"/>
+    <use xlink:href="#Univers-69" x="2467.099472"/>
+    <use xlink:href="#Univers-6f" x="2494.89946"/>
+    <use xlink:href="#Univers-20" x="2555.999451"/>
+   </g>
+   <!--  (NYC School Districts) -->
+   <g transform="translate(483.328125 59.11425) scale(0.24 -0.24)">
+    <defs>
+     <path id="Univers-28" d="M 1645 -787 
+C 1274 429 1050 1165 1050 2074 
+C 1050 2470 1094 2867 1229 3456 
+C 1363 4064 1504 4499 1606 4813 
+L 1184 4813 
+C 1075 4538 909 4128 730 3552 
+C 582 3066 467 2566 467 2061 
+C 467 1126 883 64 1229 -787 
+L 1645 -787 
+z
+" transform="scale(0.015625)"/>
+     <path id="Univers-4e" d="M 608 0 
+L 1190 0 
+L 1190 3923 
+L 3539 0 
+L 4358 0 
+L 4358 4621 
+L 3770 4621 
+L 3770 800 
+L 1498 4621 
+L 608 4621 
+L 608 0 
+z
+" transform="scale(0.015625)"/>
+     <path id="Univers-59" d="M 1850 0 
+L 2496 0 
+L 2496 1786 
+L 4301 4621 
+L 3584 4621 
+L 2202 2355 
+L 838 4621 
+L 45 4621 
+L 1850 1818 
+L 1850 0 
+z
+" transform="scale(0.015625)"/>
+     <path id="Univers-43" d="M 4032 3373 
+C 3949 4422 3027 4685 2374 4685 
+C 730 4685 352 3232 352 2259 
+C 352 1363 666 -70 2291 -70 
+C 3085 -70 3923 307 4019 1216 
+L 3315 1216 
+C 3296 1107 3258 909 3091 730 
+C 2893 525 2624 454 2342 454 
+C 1286 454 1037 1395 1037 2266 
+C 1037 3034 1235 4173 2349 4173 
+C 3238 4173 3322 3533 3347 3373 
+L 4032 3373 
+z
+" transform="scale(0.015625)"/>
+     <path id="Univers-29" d="M 486 4813 
+C 858 3597 1082 2861 1082 1958 
+C 1082 1562 1037 1158 902 576 
+C 768 -32 627 -467 525 -787 
+L 947 -787 
+C 1056 -512 1222 -96 1402 480 
+C 1549 966 1664 1466 1664 1971 
+C 1664 2906 1248 3962 902 4813 
+L 486 4813 
+z
+" transform="scale(0.015625)"/>
+    </defs>
+    <use xlink:href="#Univers-20"/>
+    <use xlink:href="#Univers-28" x="27.799988"/>
+    <use xlink:href="#Univers-4e" x="61.099976"/>
+    <use xlink:href="#Univers-59" x="138.899963"/>
+    <use xlink:href="#Univers-43" x="205.59996"/>
+    <use xlink:href="#Univers-20" x="272.299957"/>
+    <use xlink:href="#Univers-53" x="300.099945"/>
+    <use xlink:href="#Univers-63" x="366.799942"/>
+    <use xlink:href="#Univers-68" x="416.799927"/>
+    <use xlink:href="#Univers-6f" x="477.899918"/>
+    <use xlink:href="#Univers-6f" x="538.999908"/>
+    <use xlink:href="#Univers-6c" x="600.099899"/>
+    <use xlink:href="#Univers-20" x="627.899887"/>
+    <use xlink:href="#Univers-44" x="655.699875"/>
+    <use xlink:href="#Univers-69" x="727.899857"/>
+    <use xlink:href="#Univers-73" x="755.699844"/>
+    <use xlink:href="#Univers-74" x="805.699829"/>
+    <use xlink:href="#Univers-72" x="838.999817"/>
+    <use xlink:href="#Univers-69" x="877.899811"/>
+    <use xlink:href="#Univers-63" x="905.699799"/>
+    <use xlink:href="#Univers-74" x="955.699783"/>
+    <use xlink:href="#Univers-73" x="988.999771"/>
+    <use xlink:href="#Univers-29" x="1038.999756"/>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p2b23074654">
+   <rect x="153" y="95.04" width="948.6" height="609.84"/>
+  </clipPath>
+ </defs>
+</svg>

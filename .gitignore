@@ -9,3 +9,14 @@ output/gdf_permits_Viz.csv
 output/gdf_permits.csv
 metadata/DD_DOB_Permit_Issuance_2019-07-29.xlsx
 data/_download/DOB_Permit_Issuance_20240726.csv
+willcao_geospatialpythontest _SUBMITMON.ipynb
+willcao_geospatialpythontest_PULL.ipynb
+/data/_download/Atomic Polygons
+/data/Atomic Polygons
+/_ignore/gdf_permits_AtomicPolygons
+/_ignore/gdf_permits_SchoolDistrict
+/_ignore
+data/df_permits_API.csv
+data/df_permits_CSV.csv
+output/gdf_permits_AtomicPolygons.csv
+data/DOB_Permit_Issuance_20240726.csv
